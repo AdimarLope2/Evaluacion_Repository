@@ -1,0 +1,19 @@
+¿Qué es GIT?
+un sistema control de versiones
+
+¿Qué es un pull request?
+verificar dos ramas
+
+¿Qué es un commit?
+un mensaje breve sobre qu ehacer el proyecto
+
+¿GIT y GitHub es lo mismo? Explique
+Git es el encargado de ejecutar los comandos que realizamos
+
+Github se encarga de almacenar y mostrar los repositorios
+
+¿Qué es scrum?
+Una manera de agilizar las cosas
+
+¿Para qué sirve una metodología ágil de desarrollo?
+Para ahorrar tiempo
